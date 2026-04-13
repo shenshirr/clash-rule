@@ -1,0 +1,8 @@
+payload:
+  - '+.steamcontent.com'
+  - '+.steampipe.akamaized.net'
+  - '+.hxd.as174.de'
+  - '+.shared.akamai.steamstatic.com'
+  - '+.microsoft.com'
+  - '+.api.singular.net'
+  - '+.terayang.synology.me'
