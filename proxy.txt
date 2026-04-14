@@ -26,3 +26,4 @@ payload:
   - '+.surrit.com'
   - '+.cloudflare.com'
   - '+.resao.com'
+  - '+.yachtworld.com'
