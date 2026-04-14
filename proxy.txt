@@ -27,3 +27,4 @@ payload:
   - '+.cloudflare.com'
   - '+.resao.com'
   - '+.yachtworld.com'
+  - '+.fc2.com'
