@@ -29,3 +29,4 @@ payload:
   - '+.yachtworld.com'
   - '+.fc2.com'
   - '+.visualstudio.com'
+  - '+.microsoft.com'
