@@ -28,3 +28,4 @@ payload:
   - '+.resao.com'
   - '+.yachtworld.com'
   - '+.fc2.com'
+  - '+.visualstudio.com'
