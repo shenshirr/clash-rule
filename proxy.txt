@@ -32,3 +32,4 @@ payload:
   - '+.microsoft.com'
   - '+.live.com'
   - '+.azure.com'
+  - '+.office.net'
