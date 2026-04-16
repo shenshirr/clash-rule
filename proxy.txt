@@ -31,3 +31,4 @@ payload:
   - '+.visualstudio.com'
   - '+.microsoft.com'
   - '+.live.com'
+  - '+.azure.com'
