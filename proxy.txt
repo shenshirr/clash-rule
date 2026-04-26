@@ -33,3 +33,4 @@ payload:
   - '+.live.com'
   - '+.azure.com'
   - '+.office.net'
+  - '+.alpaca.markets'
