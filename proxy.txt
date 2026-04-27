@@ -34,3 +34,4 @@ payload:
   - '+.azure.com'
   - '+.office.net'
   - '+.alpaca.markets'
+  - '+.btc620.com'
