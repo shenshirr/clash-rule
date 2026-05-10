@@ -36,3 +36,4 @@ payload:
   - '+.alpaca.markets'
   - '+.btc620.com'
   - '+.91p52.com'
+  - '+.live.com'
