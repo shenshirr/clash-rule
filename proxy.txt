@@ -37,3 +37,5 @@ payload:
   - '+.btc620.com'
   - '+.91p52.com'
   - '+.live.com'
+  - '+.windows.net'
+  - '+.xboxlive.com'
