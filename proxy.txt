@@ -40,3 +40,4 @@ payload:
   - '+.windows.net'
   - '+.xboxlive.com'
   - '+.uber.com'
+  - '+.ubereats.com'
