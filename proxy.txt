@@ -41,3 +41,4 @@ payload:
   - '+.xboxlive.com'
   - '+.uber.com'
   - '+.ubereats.com'
+  - '+.spov-msedge.net'
