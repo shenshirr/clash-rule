@@ -44,3 +44,4 @@ payload:
   - '+.spov-msedge.net'
   - '+.sharepoint.com'
   - '+.live.net'
+  - '+.microsoftpersonalcontent.com'
