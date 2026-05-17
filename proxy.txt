@@ -42,3 +42,5 @@ payload:
   - '+.uber.com'
   - '+.ubereats.com'
   - '+.spov-msedge.net'
+  - '+.sharepoint.com'
+  - '+.live.net'
