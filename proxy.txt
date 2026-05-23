@@ -45,3 +45,4 @@ payload:
   - '+.sharepoint.com'
   - '+.live.net'
   - '+.microsoftpersonalcontent.com'
+  - '+.maoxiong.cloud'
