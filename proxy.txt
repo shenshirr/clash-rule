@@ -46,3 +46,4 @@ payload:
   - '+.live.net'
   - '+.microsoftpersonalcontent.com'
   - '+.maoxiong.cloud'
+  - '+.ibb.co'
