@@ -47,3 +47,4 @@ payload:
   - '+.microsoftpersonalcontent.com'
   - '+.maoxiong.cloud'
   - '+.ibb.co'
+  - '+.wixsite.com'
