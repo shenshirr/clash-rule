@@ -48,3 +48,4 @@ payload:
   - '+.maoxiong.cloud'
   - '+.ibb.co'
   - '+.wixsite.com'
+  - '+.orange.com'
