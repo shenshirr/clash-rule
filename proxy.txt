@@ -49,3 +49,4 @@ payload:
   - '+.ibb.co'
   - '+.wixsite.com'
   - '+.orange.com'
+  - '+.recaptcha.net'
