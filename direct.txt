@@ -5,3 +5,6 @@ payload:
   - '+.shared.akamai.steamstatic.com'
   - '+.api.singular.net'
   - '+.terayang.synology.me'
+  - '+.natfrp.com'
+  - '+.nyat.app'
+  - '+.www.rz907m4zj.nyat.app'
