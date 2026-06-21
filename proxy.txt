@@ -50,3 +50,4 @@ payload:
   - '+.wixsite.com'
   - '+.orange.com'
   - '+.recaptcha.net'
+  - '+.racetracker.de'
