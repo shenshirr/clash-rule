@@ -51,3 +51,4 @@ payload:
   - '+.orange.com'
   - '+.recaptcha.net'
   - '+.racetracker.de'
+  - '+.godaddy.com'
