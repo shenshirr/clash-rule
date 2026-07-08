@@ -52,3 +52,4 @@ payload:
   - '+.recaptcha.net'
   - '+.racetracker.de'
   - '+.godaddy.com'
+  - '+.laowangforum.net'
