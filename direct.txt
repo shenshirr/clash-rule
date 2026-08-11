@@ -8,3 +8,5 @@ payload:
   - '+.natfrp.com'
   - '+.nyat.app'
   - '+.www.rz907m4zj.nyat.app'
+  - '+.moe233.org'
+  - '+.qchwnd.moe'
