@@ -52,4 +52,4 @@ payload:
   - '+.racetracker.de'
   - '+.godaddy.com'
   - '+.laowangforum.net'
-  - '+.services.googleapis.cn'
+  - '+.googleapis.cn'
