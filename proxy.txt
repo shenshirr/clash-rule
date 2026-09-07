@@ -53,3 +53,4 @@ payload:
   - '+.godaddy.com'
   - '+.laowangforum.net'
   - '+.googleapis.cn'
+  - '+.gamerefinery.com'
