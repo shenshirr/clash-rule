@@ -54,3 +54,4 @@ payload:
   - '+.laowangforum.net'
   - '+.googleapis.cn'
   - '+.gamerefinery.com'
+  - '+.start.me'
