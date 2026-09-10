@@ -1,5 +1,5 @@
 payload:
-  # Advertising and attribution: reviewed source evidence, 2026-09-10.
+  # Advertising and attribution: reviewed source evidence, 2026-09-11.
   # Platform/source mapping: business-domains.json and business-domain-evidence.csv.
   # Standalone coverage; does not depend on the personal proxy.txt provider.
   # Domain provider only; routing policy is selected by RULE-SET in the client.
@@ -77,6 +77,7 @@ payload:
   - '+.aindsp.com'
   - '+.airbridge.io'
   - '+.amazon-adsystem.com'
+  - '+.analytics.google.com'
   - '+.angsrvr.com'
   - '+.api-receiver.detailroi.com'
   - '+.api.affiliations.site'
@@ -156,6 +157,8 @@ payload:
   - '+.eyeview-partners.tremorhub.com'
   - '+.facebook.com'
   - '+.fbcdn.net'
+  - '+.firebase.googleapis.com'
+  - '+.firebaseinstallations.googleapis.com'
   - '+.fivecdm.com'
   - '+.fluct-dr-kr.s3.amazonaws.com'
   - '+.fluct-kmkz.s3.amazonaws.com'
@@ -172,8 +175,10 @@ payload:
   - '+.gdt.qq.com'
   - '+.go.link'
   - '+.goldspotmedia.com'
+  - '+.google-analytics.com'
   - '+.googleadservices.com'
   - '+.googlesyndication.com'
+  - '+.googletagmanager.com'
   - '+.googletagservices.com'
   - '+.gu.dyntrk.com'
   - '+.gwallet.com'
