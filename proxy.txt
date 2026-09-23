@@ -57,3 +57,6 @@ payload:
   - '+.start.me'
   - '+.aarp.org'
   - '+.appstoreconnect.apple.com'
+  - '+.developerservices2.apple.com'
+  - '+.xcode-cdn.apple.com'
+  - '+.devimages-cdn.apple.com'
