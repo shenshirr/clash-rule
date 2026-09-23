@@ -56,3 +56,4 @@ payload:
   - '+.gamerefinery.com'
   - '+.start.me'
   - '+.aarp.org'
+  - '+.appstoreconnect.apple.com'
