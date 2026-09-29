@@ -61,3 +61,4 @@ payload:
   - '+.developerservices2.apple.com'
   - '+.xcode-cdn.apple.com'
   - '+.devimages-cdn.apple.com'
+  - '+.alicesw.com'
