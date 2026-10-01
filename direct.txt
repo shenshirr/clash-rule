@@ -10,3 +10,4 @@ payload:
   - '+.www.rz907m4zj.nyat.app'
   - '+.moe233.org'
   - '+.qchwnd.moe'
+  - '+.stun.l.google.com'
