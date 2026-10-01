@@ -25,7 +25,6 @@ payload:
   - '+.foxnews.com'
   - '+.windy.com'
   - '+.surrit.com'
-  - '+.cloudflare.com'
   - '+.resao.com'
   - '+.yachtworld.com'
   - '+.fc2.com'
